@@ -1,0 +1,27 @@
+C:\asm\C#COM-port\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\asm\C#COM-port\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\asm\C#COM-port\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\GenerateResource.read.1.tlog
+C:\asm\C#COM-port\SerialPortCommunication\obj\Debug\GenerateResource.write.1.tlog
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+E:\CSharp-VB-COM-port\C#\SerialPortCommunication\obj\Debug\PCComm.frame.resources
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\obj\Debug\PCComm.frame.resources
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Программирование\3 курс\5 семестр\ТОКС\1\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
